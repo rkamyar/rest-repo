@@ -9,7 +9,7 @@
 %Outputs:
 %out:= 1 x 3 vector
 %
-%%
+
 
 function out = handelman_linemaker_2d(A,B);
 

@@ -16,7 +16,7 @@
 %out_exps:= m x d matrix
 %Coeff_total:= m
 %
-%%
+
 function [out_coeffs,out_exps,out_coeff_total] = coeff_elim(Coeffs,exps,facet_rule)
 
 Kk = find(facet_rule);
