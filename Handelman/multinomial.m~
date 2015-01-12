@@ -9,7 +9,8 @@
 %
 %Outputs:
 %out:= 1 x m vector, m > n if deg >= 2
-
+%
+%%
 function out = multinomial(vec,deg)
 
 if deg==0
