@@ -8,11 +8,11 @@
 %Coeffs:= m x n matrix
 %exps:= m x d matrix
 %facet_rule:= 1 x d vector
-%
+
 %Outputs:
 %out_coeffs:= m x d' (d' < d) matrix
 %
-%%
+
 
 function [out_coeffs] = coeff_elim_zeros(Coeffs,exps,facet_rule)
 
