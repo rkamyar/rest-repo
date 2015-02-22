@@ -2,7 +2,7 @@
 ### Tertiary heading
 
 * First item
-* Seconf item
+* Second item
 * Third item
 * Fourth item
 
